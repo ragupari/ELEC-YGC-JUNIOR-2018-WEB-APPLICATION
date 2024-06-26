@@ -1,6 +1,11 @@
-<h1>Check out these youtube links to know how this application works&#128071;</h1>
+# 📱 Application Overview
 
-<h3>
-  <center><a href = "https://www.youtube.com/watch?v=WpQ2EArViNY">&#128279;Link 01</a></center>
-  <center><br><a href = "https://www.youtube.com/watch?v=-fQvCMnaZGo">&#128279;Link 02</a></center>
-</ul>
+Welcome to our application! To get a quick overview of how it works, check out the following YouTube videos:
+
+<div align="center">
+
+### [![Link 01](https://img.shields.io/badge/Watch-Video%201-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=WpQ2EArViNY)
+
+### [![Link 02](https://img.shields.io/badge/Watch-Video%202-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=-fQvCMnaZGo)
+
+</div>
